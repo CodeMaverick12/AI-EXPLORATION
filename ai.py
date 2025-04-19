@@ -16,7 +16,7 @@ from transformers import pipeline
 import torch
 import datetime
 import re
-import weasyprint
+
 from PIL import Image
 import io
 import speech_recognition as sr

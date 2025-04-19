@@ -7,6 +7,5 @@ scikit-learn
 plotly
 transformers
 torch
-weasyprint
 pillow
 speechrecognition
