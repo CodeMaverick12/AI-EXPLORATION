@@ -9,3 +9,4 @@ transformers
 torch
 pillow
 speechrecognition
+python-dotenv
