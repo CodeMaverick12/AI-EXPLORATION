@@ -10,3 +10,6 @@ torch
 pillow
 speechrecognition
 python-dotenv
+google-generativeai
+statsmodels
+
